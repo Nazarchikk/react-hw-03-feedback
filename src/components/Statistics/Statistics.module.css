@@ -1,0 +1,12 @@
+.h2T{
+    color: cornsilk;
+    padding-top: 25px;
+}
+.static{
+    text-align: start;
+    margin-top: 50px;
+}
+.liStatic{
+    color: gainsboro;
+    list-style: none;
+}
